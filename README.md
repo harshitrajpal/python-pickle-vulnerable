@@ -1,5 +1,5 @@
 # python-pickle-vulnerable
-A repository vulnerable to Python pickle's dedserialization vulnerabilities
+A repository vulnerable to Python pickle's serialization vulnerabilities
 
 pip3 install flask
 
